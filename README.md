@@ -33,7 +33,7 @@ whatsapp-chat-analyzer/
 ├── app.py                # Main Streamlit app UI
 ├── helper.py             # All backend analysis functions
 ├── preprocessor.py       # Preprocessing of raw chat data
-├── stop\_hinglish.txt     # Custom stopwords list (Hindi + English)
+├── stop_hinglish.txt     # Custom stopwords list (Hindi + English)
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 
@@ -68,7 +68,7 @@ emoji
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+   git clone https://github.com/Navyavarri10/whatsapp-chat-analyzer.git
    cd whatsapp-chat-analyzer
    ```
 
