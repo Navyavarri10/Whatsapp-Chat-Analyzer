@@ -1,6 +1,7 @@
 # 📊 WhatsApp Chat Analyzer
 
 **WhatsApp Chat Analyzer** is a Streamlit-based interactive web app that provides powerful insights into WhatsApp group or personal chat exports. Upload your chat `.txt` file and explore message patterns, media sharing, emoji usage, and most frequently used words — all visualized beautifully using charts and word clouds.
+⚠️ Note: This project currently supports WhatsApp chat exports from iPhones only.
 
 ---
 
